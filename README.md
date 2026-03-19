@@ -149,12 +149,6 @@ input_data = {
 
 ---
 
-## ⚠️ Note on model.pkl
-
-The trained model file `model.pkl` is not included in this repository as it is environment-specific. To generate the model, run the training script from the previous module before executing `test.py`.
-
----
-
 ## 🛠️ Tools and Technologies
 
 * Python 3.11
