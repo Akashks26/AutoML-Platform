@@ -1,4 +1,4 @@
-# AutoML Platform 🤖
+# Automated Machine Learning (AutoML) Platform
 
 A modular Machine Learning platform that automates the loan approval prediction process using trained ML models. Built as part of the AIML Internship at LearnDepth.
 
