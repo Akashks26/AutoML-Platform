@@ -1,4 +1,5 @@
-# Automated Machine Learning (AutoML) Platform
+# Automated Machine Learning (AutoML) Platform 
+### Module 4 — Model Registry and Prediction Engine
 
 A modular Machine Learning platform that automates the loan approval prediction process using trained ML models. Built as part of the AIML Internship at LearnDepth.
 
@@ -160,4 +161,5 @@ input_data = {
 
 ---
 
-
+### Akash K S
+**AIML Intern — LearnDepth**
